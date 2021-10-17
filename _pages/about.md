@@ -9,8 +9,8 @@ author_profile: true
 
 ## About @hyez
 ### 🔭 <b>Education</b>
-- M.S. in IT engineering, Sookmyung Women's University (2020.08~Current)
-- B.S. in IT engineering, Sookmyung Women's University (2016.03~2020.08)
+- M.S. in IT Engineering, Sookmyung Women's University (2020.08~Current)
+- B.S. in IT Engineering, Sookmyung Women's University (2016.03~2020.08)
 
 
 ### ⚡<b>Experience</b>
