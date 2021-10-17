@@ -289,9 +289,17 @@ defaults:
       related: true
       sidebar:
         nav: "sidebar-contents"
+  # _pages
   - scope:
-        path: ""
-        type: docs
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: false
       values:
-        sidebar:
-          nav: "sidebar-contents"
+      sidebar:
+        nav: "sidebar-contents"
