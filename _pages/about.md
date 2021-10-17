@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-개인적으로 공부하고 연구한 것을 정리하고 공유하는 블로그입니다 😄 
+<!-- 개인적으로 공부하고 연구한 것을 정리하고 공유하는 블로그입니다 😄  -->
 
 
 ## 🔭 <b>Education</b>
