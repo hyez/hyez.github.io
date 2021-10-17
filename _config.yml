@@ -287,3 +287,6 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        title: Menu
+        nav: "sidebar-contents"

@@ -9,6 +9,15 @@ main:
   - title: "Blog"
     url: /categories/blog
 
+sidebar-contents:
+ - title: "Study"
+   children:
+    - title: "Review"
+      url: /categories/#review
+    - title: "Tips"
+      url: /categories/#tips
+ - title: "기타"
+   url: /categories/#기타
 
 # main links
 # main:
