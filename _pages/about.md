@@ -1,5 +1,6 @@
 ---
 title: "이 블로그 설명서"
+layout: single
 permalink: /about/
 author_profile: true
 ---
