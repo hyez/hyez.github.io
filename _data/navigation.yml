@@ -6,8 +6,10 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Blog"
+    url: /blog/
 
-    
+
 # main links
 # main:
 #   - title: "Quick-Start Guide"
