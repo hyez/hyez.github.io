@@ -5,10 +5,14 @@ permalink: /about/
 author_profile: true
 ---
 
-## devinlife.github.io 블로그
+개인적으로 공부하고 연구한 것을 정리하고 공유하는 블로그입니다 😄 
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+## About @hyez
+### 🔭 <b>Education</b>
+- M.S. in IT engineering, Sookmyung Women's University (2020.08~Current)
+- B.S. in IT engineering, Sookmyung Women's University (2016.03~2020.08)
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+
+### ⚡<b>Experience</b>
+- Internship, Naver Webtoon, as a AI Research Engineer (2021.06~2021.09)
+- Internship, Y&G, as a AI Research Engineer (2020.03~2020.06)
