@@ -7,7 +7,7 @@ main:
     url: /about/
 
   - title: "Blog"
-    url: /categories/#blog
+    url: /categories/blog
 
 
 # main links
