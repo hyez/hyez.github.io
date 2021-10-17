@@ -3,7 +3,7 @@ title: "Blog"
 permalink: /categories/blog/
 layout: category
 author_profile: true
-taxonomy: blog
+taxonomy: Blog
 ---
 
-좋아하는 윤동주 시인의 작품 모음입니다.
+Blog Category
