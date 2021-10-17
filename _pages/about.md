@@ -14,5 +14,5 @@ author_profile: true
 
 
 ## ⚡<b>Experience</b>
-- Internship, Naver Webtoon, as a AI Research Engineer (2021.06~2021.09)
+- Internship, Naver Webtoon, as an AI Research Engineer (2021.06~2021.09)
 - Internship, Y&G, as a AI Research Engineer (2020.03~2020.06)
