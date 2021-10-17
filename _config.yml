@@ -289,3 +289,9 @@ defaults:
       related: true
       sidebar:
         nav: "sidebar-contents"
+  - scope:
+        path: ""
+        type: docs
+      values:
+        sidebar:
+          nav: "sidebar-contents"
