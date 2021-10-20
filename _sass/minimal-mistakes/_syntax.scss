@@ -2,6 +2,12 @@
    Syntax highlighting
    ========================================================================== */
 
+code.highlighter-rouge {
+  background: #eee !important;
+  font-weight: bold !important;
+  color: #ff653b !important;
+}
+
 div.highlighter-rouge,
 figure.highlight {
   position: relative;
