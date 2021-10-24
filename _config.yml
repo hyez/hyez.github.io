@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "혜지텍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hyez"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "hyez"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "I am an **amazing** person."
+  bio              : "**혜지**는 해질 때까지 코딩"
   location         : "Korea"
   email            : "oohyejioo@sookmyung.ac.kr"
   links:
