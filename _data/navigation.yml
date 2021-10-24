@@ -6,8 +6,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Blog"
-    url: /categories/blog
+  - title: "Study"
+    url: /categories/study
 
 sidebar-contents:
  - title: "Study"

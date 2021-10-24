@@ -1,7 +1,7 @@
 ---
 title: "Blog"
-permalink: /categories/blog/
+permalink: /categories/study/
 layout: category
 author_profile: true
-taxonomy: Blog
+taxonomy: Study
 ---
