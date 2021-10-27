@@ -6,16 +6,19 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Study"
-    url: /categories/study
+  - title: "Recommendations"
+    url: /categories/recommendations
+
+  - title: "NLP"
+    url: /categories/nlp
 
 sidebar-contents:
  - title: "Study"
    children:
-    - title: "Review"
-      url: /categories/review
-    - title: "Tips"
-      url: /categories/tips
+    - title: "Paper Review"
+      url: /categories/paper
+    - title: "Notes"
+      url: /categories/notes
 #  - title: "기타"
 #    url: /categories/#기타
 
