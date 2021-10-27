@@ -11,7 +11,12 @@ main:
 
   - title: "NLP"
     url: /categories/nlp
+  
+  - title: "DL/ML"
+    url: /categories/ai
 
+
+  
 sidebar-contents:
  - title: "Study"
    children:
