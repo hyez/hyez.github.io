@@ -10,7 +10,7 @@ tags:
 ---
 
 
-> 
+> Beyond Parity: Fairness Objectives for Collaborative Filtering (NIPS '17) 논문 리뷰입니다.
 
 ## Introuduction
 
