@@ -31,7 +31,7 @@ tags:
 
 **Demographic Parity**
 
-$Pr\{Y_{pred} =1|A=0\}=Pr\{Y_{pred} =1|A=1\}$
+$$Pr\{Y_{pred} =1|A=0\}=Pr\{Y_{pred} =1|A=1\}$$
 				
 			
 		
@@ -44,7 +44,7 @@ $Pr\{Y_{pred} =1|A=0\}=Pr\{Y_{pred} =1|A=1\}$
 
 **Equal Opportunity**
 
-$Pr\{Y_{pred} =1|A=0, Y=y\}=Pr\{Y_{pred} =1|A=1, Y=y\}, y=\{0, 1\}$
+$$Pr\{Y_{pred} =1|A=0, Y=y\}=Pr\{Y_{pred} =1|A=1, Y=y\}, y=\{0, 1\}$$
 				
 			
 		
