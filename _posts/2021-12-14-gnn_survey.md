@@ -9,7 +9,7 @@ tags:
   - Review 
 ---
 
-> Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions
+> GNN for Recommender Systems - Survey
 
 ## 1. Introduction
 
@@ -65,7 +65,7 @@ tags:
         - item 홍보, 마케팅 목적 → combination of items를 유저에게 추천함
         - e.g. Spotify, Pinterest, Amazon, IKEA 등에서 적용
         
-        ![Untitled](/assets/posts/2021-12-14-gnn_survey/Untitled 2.png)
+        ![Untitled](/assets/posts/2021-12-14-gnn_survey/Untitled%202.png)
         
     - **Cross-Domain Recommendation (CDR)**
         - 유저는 multiple domain에서 multi-modal information으로 상호작용 함
@@ -85,7 +85,7 @@ tags:
             - low-level system diversity → 모든 유저에게 그냥 인기있는 아이템 추천함
             - 시스템 관점에서 아이템이 유저마다 다양하게 추천되었는지를 의미함
         
-        ![Untitled](/assets/posts/2021-12-14-gnn_survey/Untitled 3.png)
+        ![Untitled](/assets/posts/2021-12-14-gnn_survey/Untitled%203.png)
         
     - **Explainability**
         - 왜 이 유저에게 이 아이템이 추천되었는지를 설명할 수 있는 것 (explainable)
