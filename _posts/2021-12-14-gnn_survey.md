@@ -36,11 +36,11 @@ tags:
 
 - Overview
     
-    ![스크린샷 2021-12-04 오후 10.22.42.png](/assets/posts/2021-12-14-gnn_survey/img1.png)
+    ![img1.png](/assets/posts/2021-12-14-gnn_survey/img1.png)
     
 - **Stages**
     
-    ![스크린샷 2021-12-04 오후 8.04.05.png](/assets/posts/2021-12-14-gnn_survey/img2.png)
+    ![img2.png](/assets/posts/2021-12-14-gnn_survey/img2.png)
     
     - Matching (candidate generation)
         - 수백만개 아이템 중에서 수백개 정도의 candidate 생성
